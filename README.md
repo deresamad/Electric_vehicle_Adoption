@@ -1,4 +1,4 @@
-# Distribution Network Analysis: Capacity Planning for Electric Vehicle (EV) Adoption
+# Distribution Network Analysis: Capacity Planning for Electric Vehicle (EV) Adoption in North America
 
 ## Project Overview
 
