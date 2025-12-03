@@ -3,6 +3,7 @@
 ## Project Overview
 
 PowerCharge Utilities is a leading electric utility company operating in an evolving energy landscape. With the rapid adoption of electric vehicles (EVs), the company faces increasing stress on its distribution network. This project leverages data analysis to assess current grid capacity, detect potential risks, and propose optimization strategies to ensure reliable service while supporting sustainability goals.
+![]()
 
 ---
 
